@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  padding-top: 36px;
+  color: rgb(28, 28, 255);
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 48px;
+}
+
+body {
+  text-align: center;
+  background-color: rgb(214, 231, 247);
+}
+
+form input {
+  text-align: center;
+  box-sizing: border-box;
+  font-size: 24px;
+}
+
+button {
+  background-color: rgb(243, 231, 139);
+  font-size: 24px;
+  color: rgb(61, 61, 61);
+  margin-bottom: 36px;
+}
+
+ul {
+  text-align: center;
+  list-style-position: inside;
+  font-size: 24px;
+  line-height: 36px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
